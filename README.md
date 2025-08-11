@@ -26,5 +26,5 @@ Olá, meu nome é Isaac Gomes, sou estudante de Ciência da Computação na Univ
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=zackandcoding1&theme=dark&locale=pt_BR"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=zackandcoding1&theme=dark&locale=pt_BR" alt=""/></a>
 </p>
